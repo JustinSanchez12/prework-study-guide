@@ -14,8 +14,6 @@ N/A
 Each section contains notes of the four topics we have talked about in the prework guide. These topics include HTML, CSS, JavaScript, and Git. 
 
 
-![alt text](assets/images/screenshot.png)
-
 ## Credits
 
 N/A
